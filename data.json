@@ -1,0 +1,28 @@
+{
+    "carouselImages": [
+        "images/image1.jpg",
+        "images/image2.jpg",
+        "images/image3.jpg"
+    ],
+    "promotions": [
+        {
+            "title": "Скидка 50%",
+            "description": "На все товары в магазине!"
+        },
+        {
+            "title": "Купи один, получи второй бесплатно",
+            "description": "Акция действует до конца месяца"
+        }
+    ],
+    "newArrivals": [
+        {
+            "title": "Новая коллекция",
+            "description": "Ознакомьтесь с нашими новинками"
+        },
+        {
+            "title": "Специальное предложение",
+            "description": "Эксклюзивные товары по выгодным ценам"
+        }
+    ]
+}
+

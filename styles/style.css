@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+section {
+    margin: 20px;
+}
+
+.promotion, .new-arrival {
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-sizing: border-box;
+    width: calc(50% - 10px);
+}
+
+.promotion img, .new-arrival img {
+    max-width: 100%;
+    max-height: 5vh; 
+    width: auto;
+    height: auto;
+}
+
+.row img {
+     max-height: 15vh;   
+}
