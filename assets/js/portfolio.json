@@ -1,0 +1,43 @@
+{
+    "filters": [
+      {"name": "All", "filter": "*", "active": true},
+      {"name": "App", "filter": ".filter-app"},
+      {"name": "Product", "filter": ".filter-product"},
+      {"name": "Branding", "filter": ".filter-branding"},
+      {"name": "Books", "filter": ".filter-books"}
+    ],
+    "items": [
+      {
+        "category": "app",
+        "image": "assets/img/portfolio/app-1.jpg",
+        "title": "App 1",
+        "description": "Lorem ipsum, dolor sit amet consectetur",
+        "detailsLink": "portfolio-details.html",
+        "galleryLink": "assets/img/portfolio/app-1.jpg"
+      },
+      {
+        "category": "product",
+        "image": "assets/img/portfolio/product-1.jpg",
+        "title": "Product 1",
+        "description": "Lorem ipsum, dolor sit amet consectetur",
+        "detailsLink": "portfolio-details.html",
+        "galleryLink": "assets/img/portfolio/product-1.jpg"
+      },
+      {
+        "category": "branding",
+        "image": "assets/img/portfolio/branding-1.jpg",
+        "title": "Branding 1",
+        "description": "Lorem ipsum, dolor sit amet consectetur",
+        "detailsLink": "portfolio-details.html",
+        "galleryLink": "assets/img/portfolio/branding-1.jpg"
+      },
+      {
+        "category": "books",
+        "image": "assets/img/portfolio/books-1.jpg",
+        "title": "Books 1",
+        "description": "Lorem ipsum, dolor sit amet consectetur",
+        "detailsLink": "portfolio-details.html",
+        "galleryLink": "assets/img/portfolio/books-1.jpg"
+      }
+    ]
+  }
