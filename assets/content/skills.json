@@ -1,0 +1,14 @@
+[
+    { "name": "HTML", "value": 100 },
+    { "name": "CSS", "value": 90 },
+    { "name": "JavaScript", "value": 75 },
+    { "name": "С/С++", "value": 85 },
+    { "name": "Structured programming", "value": 90 },
+    { "name": "Types and datastructures", "value": 80 },
+    { "name": "Algorithms", "value": 45 },
+    { "name": "Linux", "value": 40 },
+    { "name": "DevOps", "value": 60 },
+    { "name": "OOP", "value": 70 },
+    { "name": "Shell/Bash", "value": 45 }
+  ]
+  

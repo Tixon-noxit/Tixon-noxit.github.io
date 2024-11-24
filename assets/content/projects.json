@@ -1,0 +1,90 @@
+{
+  "projects": [
+    {
+      "category": "DevOps",
+      "title": "UNIX/Linux operating systems (Basic)",
+      "description": "Linux system installation and updates. Administration basics.",
+      "image": "assets/img/portfolio/linux.png",
+      "link": "https://github.com/Tixon-noxit/DevOps/tree/main/D01_Linux"
+    },
+      {
+        "category": "DevOps",
+        "title": "Simple Docker",
+        "description": "Introduction to docker. Developing a simple docker image for your own server.",
+        "image": "assets/img/portfolio/simple_docker.png",
+        "link": "https://github.com/Tixon-noxit/DevOps/tree/main/DO5_SimpleDocker"
+      },
+      {
+        "category": "DevOps",
+        "title": "Basic CI/CD",
+        "description": "Development of a simple CI/CD for the SimpleBashUtils project. Building, testing, deployment.",
+        "image": "assets/img/portfolio/basic_ci_cd.jpeg",
+        "link": "https://github.com/Tixon-noxit/DevOps/tree/main/DO6_CICD"
+      },
+  
+      {
+        "category": "C",
+        "title": "Simple Bash Utils",
+        "description": "Development of Bash text utilities: cat, grep.",
+        "image": "assets/img/portfolio/bashutils.png",
+        "link": "https://github.com/Tixon-noxit/C11/tree/main/C3_SimpleBashUtils"
+      },
+      {
+        "category": "C",
+        "title": "math",
+        "description": "Implementation of your own version of the math.h library.",
+        "image": "assets/img/portfolio/s21_math.png",
+        "link": "https://github.com/Tixon-noxit/C11/tree/main/C4_s21_math"
+      },
+      {
+        "category": "C",
+        "title": "string+",
+        "description": "Implementation of the string.h library with additions.",
+        "image": "https://www.scaler.com/topics/images/string-h-in-c_thumbnail.webp",
+        "link": "https://github.com/Tixon-noxit/C11/tree/main/C2_s21_stringplus"
+      },
+      {
+        "category": "C",
+        "title": "decimal",
+        "description": "Implementation of your own decimal.h library.",
+        "image": "assets/img/portfolio/s21_decimal.png",
+        "link": "https://github.com/Tixon-noxit/C11/tree/main/C5_s21_decimal"
+      },
+      {
+        "category": "C",
+        "title": "matrix",
+        "description": "Implementation of the matrix.h library.",
+        "image": "assets/img/portfolio/basic_ci_cd.jpeg",
+        "link": "https://github.com/Tixon-noxit/DevOps/tree/main/DO6_CICD"
+      },
+      {
+        "category": "C",
+        "title": "BrickGame Tetris",
+        "description": "In this project, you need to implement the Tetris game in the C programming language using a structural approach.",
+        "image": "assets/img/portfolio/tetris-pieces.png",
+        "link": "https://github.com/Tixon-noxit/C11/tree/main/C7_BrickGame_v1.0"
+      },
+  
+      {
+        "category": "CPP",
+        "title": "matrix+",
+        "description": "Implementation of the matrix_oop.h library.",
+        "image": "assets/img/portfolio/s21_matrix.png",
+        "link": "https://github.com/Tixon-noxit/CPP/tree/main/CPP1_s21_matrixplus"
+      },
+      {
+        "category": "CPP",
+        "title": "containers",
+        "description": "Implementation of the containers.h. library.",
+        "image": "assets/img/portfolio/s21_containers.png",
+        "link": "https://github.com/Tixon-noxit/CPP/tree/main/CPP2_s21_containers"
+      },
+      {
+        "category": "CPP",
+        "title": "BrickGame Snake",
+        "description": "In this project, you will implement the Snake game in the C++ programming language in the object-oriented programming paradigm.",
+        "image": "assets/img/portfolio/cta_alt.png",
+        "link": "https://github.com/Tixon-noxit/CPP/tree/main/CPP3_BrickGame_v2.0"
+      }
+    ]
+  }

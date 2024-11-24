@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Software Engineer",
+      "years": "2021 - Present",
+      "company": "Freelance",
+      "tasks": [
+        "Develop and maintain BI tools and integrations for various projects.",
+        "Collaborate with cross-functional teams to implement experimental solutions in Python.",
+        "Design and implement algorithms for efficient data processing and feature extraction.",
+        "Write unit tests and ensure at least 80% code coverage in the development process.",
+        "Consult and mentor junior developers on best practices and code quality standards."
+      ]
+    },
+    {
+      "title": "Backend Developer",
+      "years": "2019 - 2021",
+      "company": "Freelance",
+      "tasks": [
+        "Developed and optimized web applications and backend systems using Django and Python.",
+        "Implemented user registration systems, database management, and API integration.",
+        "Collaborated with front-end developers to ensure seamless integration of server-side logic.",
+        "Worked with MySQL and PostgreSQL databases for data storage and retrieval."
+      ]
+    }
+]
+  
